@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540598873675",
+    "project_id": "f2f-face-to-fce",
+    "storage_bucket": "f2f-face-to-fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540598873675:android:ed0126d2349fa1764b27ce",
+        "android_client_info": {
+          "package_name": "com.bm.f2ffacetoface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540598873675-lm8lak3m7gthpknsfajgj48blhbcfs32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvcW5Gml4pnc-_2V6RrLNhZfciGFhhE4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540598873675-lm8lak3m7gthpknsfajgj48blhbcfs32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
